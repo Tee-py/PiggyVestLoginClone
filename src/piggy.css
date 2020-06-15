@@ -1,0 +1,68 @@
+
+
+.c_input:focus {
+    color: #495057;
+    background-color: #e2e8f0;
+    border: 1px solid #e2e8f0;
+    outline: 0;
+    box-shadow: none;
+}
+
+.lab {
+    font-size: .75rem;
+    color: #4a5568;
+    margin-bottom: .25rem;
+    line-height: 2;
+    font-weight: 700;
+}
+
+.piggy_logo {
+    margin-left: 8rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+
+}
+
+.input-sec {
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.c_input {
+    padding: 1rem;
+    height: 56px;
+    background-color: #e2e8f0;
+    border: 1px solid #e2e8f0;
+}
+
+#f-col {
+    align-items: center;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.b-class {
+    background: #07255a
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(179, 179, 179)!important;
+}
+
+.s-btn:hover {
+    background-color: #083e9e;
+}
+
+.s-btn {
+    width: 100%; 
+    border-top-left-radius: 0.75rem; 
+    background-color: #0d60d8; 
+    border-bottom-right-radius: 0.75rem; 
+    border-top-right-radius: 0.75rem; 
+    border-bottom-left-radius: 0;
+    transition: background-color 0.05s ease-in-out;
+}
